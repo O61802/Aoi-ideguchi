@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: 出口碧惟　自己紹介
+description: これは、出口碧惟の自己紹介です。
+github:
+  is_project_page: false
